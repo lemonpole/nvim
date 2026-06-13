@@ -19,7 +19,6 @@ require("conform").setup({
     jsonc = { "prettier" },
     c = { "clang_format" },
     cpp = { "clang_format" },
-    hpp = { "clang_format" },
     h = { "clang_format" },
   },
   formatters = {
