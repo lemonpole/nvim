@@ -6,7 +6,7 @@
 - [`shfmt`](https://github.com/patrickvane/shfmt)
 - [`ripgrep`](https://github.com/BurntSushi/ripgrep)
 - [Nerd Fonts](https://www.nerdfonts.com/)
-- [NodeJS](https://github.com/nvm-sh/nvm)
+- [Node Version Manager](https://github.com/nvm-sh/nvm)
 
 # macOS
 
