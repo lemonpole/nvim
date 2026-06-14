@@ -21,7 +21,7 @@
 # Keyboard Shortcuts
 
 > [!TIP]
-> For the complete and most up to date list, refer to [`lua/keymaps.lua`](./lua/keymaps.lua)
+> Refer to [`lua/keymaps.lua`](./lua/keymaps.lua) for the complete list of keyboard shortcuts.
 
 | Command          | Keybinding   | Mode   |
 | ---------------- | ------------ | ------ |
