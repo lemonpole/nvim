@@ -20,7 +20,8 @@
 
 # Keyboard Shortcuts
 
-| Command          | Keybinding   | Mode   |
+For the complete and most up to date list, refer to [`lua/keymaps.lua`](./lua/keymaps.lua)
+| Command | Keybinding | Mode |
 | ---------------- | ------------ | ------ |
-| `FzfLua files`   | `<leader>ff` | Normal |
+| `FzfLua files` | `<leader>ff` | Normal |
 | `FzfLua buffers` | `<leader>fb` | Normal |
