@@ -14,6 +14,4 @@
 
 # Windows
 
-## MSYS2
-
 - [`pyenv-win`](https://github.com/pyenv-win/pyenv-win)
