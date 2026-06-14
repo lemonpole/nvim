@@ -17,3 +17,10 @@
 ## Windows
 
 - [`pyenv-win`](https://github.com/pyenv-win/pyenv-win)
+
+# Keyboard Shortcuts
+
+| Command          | Keybinding   | Mode   |
+| ---------------- | ------------ | ------ |
+| `FzfLua files`   | `<leader>ff` | Normal |
+| `FzfLua buffers` | `<leader>fb` | Normal |
