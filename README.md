@@ -1,4 +1,6 @@
-# Dependencies
+# Setup
+
+## Dependencies
 
 - [Prettier](https://prettier.io/)
 - [`stylua`](https://github.com/JohnnyMorganz/StyLua)
@@ -8,10 +10,10 @@
 - [Nerd Fonts](https://www.nerdfonts.com/)
 - [Node Version Manager](https://github.com/nvm-sh/nvm)
 
-# macOS
+## macOS
 
 - [`pyenv`](https://github.com/pyenv/pyenv)
 
-# Windows
+## Windows
 
 - [`pyenv-win`](https://github.com/pyenv-win/pyenv-win)
