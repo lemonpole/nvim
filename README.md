@@ -12,18 +12,8 @@
 
 - [`pyenv`](https://github.com/pyenv/pyenv)
 
-```bash
-npm i -g prettier
-brew install stylua fzf shfmt ripgrep
-```
-
 # Windows
 
 ## MSYS2
 
 - [`pyenv-win`](https://github.com/pyenv-win/pyenv-win)
-
-```
-npm i -g prettier
-pacman -S <deps>
-```
