@@ -1,3 +1,11 @@
+<div align="center">
+  <p>
+    <img
+    src="https://github.com/neovim/neovim.github.io/blob/a0fc2b3cedfd78478202cf7ebe11bbb2cab3547f/static/logos/neovim-logo.png"
+    />
+  </p>
+</div>
+
 # Dependencies
 
 - [Prettier](https://prettier.io/)
