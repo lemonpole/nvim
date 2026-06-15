@@ -5,3 +5,7 @@ vim.pack.add({
 })
 
 require("gitsigns").setup({})
+
+require("neogit").setup({
+  kind = "replace",
+})
