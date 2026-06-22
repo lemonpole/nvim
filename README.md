@@ -3,6 +3,7 @@
 ## Dependencies
 
 - [Prettier](https://prettier.io/)
+- [SQL Formatter](https://github.com/sql-formatter-org/sql-formatter)
 - [`stylua`](https://github.com/JohnnyMorganz/StyLua)
 - [`fzf`](https://github.com/junegunn/fzf)
 - [`shfmt`](https://github.com/patrickvane/shfmt)

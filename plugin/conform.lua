@@ -20,6 +20,7 @@ require("conform").setup({
     c = { "clang_format" },
     cpp = { "clang_format" },
     h = { "clang_format" },
+    sql = { "sql_formatter" },
   },
   formatters = {
     shfmt = {
@@ -27,6 +28,11 @@ require("conform").setup({
     },
     clang_format = {
       args = { "-style=file" },
+    },
+    sql_formatter = {
+      command = require("conform.util").from_node_modules(
+        require("conform.fs").is_windows and "sql-formatter.cmd" or "sql-formatter"
+      ),
     },
   },
   format_on_save = {
