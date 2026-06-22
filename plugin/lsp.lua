@@ -21,7 +21,7 @@ vim.lsp.config["bashls"] = {
 }
 
 vim.lsp.config["clangd"] = {
-  filetypes = { "cpp", "hpp" },
+  filetypes = { "cpp" },
   init_options = {
     compilationDatabasePath = "build",
   },
