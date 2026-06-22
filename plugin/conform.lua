@@ -29,6 +29,7 @@ require("conform").setup({
     clang_format = {
       args = { "-style=file" },
     },
+    -- @todo: remove once fixed upstream
     sql_formatter = {
       command = require("conform.util").from_node_modules(
         require("conform.fs").is_windows and "sql-formatter.cmd" or "sql-formatter"
