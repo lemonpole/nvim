@@ -1,6 +1,4 @@
-# Setup
-
-## Dependencies
+# Dependencies
 
 - [Prettier](https://prettier.io/)
 - [SQL Formatter](https://github.com/sql-formatter-org/sql-formatter)
@@ -10,6 +8,8 @@
 - [`ripgrep`](https://github.com/BurntSushi/ripgrep)
 - [Nerd Fonts](https://www.nerdfonts.com/)
 - [Node Version Manager](https://github.com/nvm-sh/nvm)
+
+# Getting Started
 
 ## macOS
 
