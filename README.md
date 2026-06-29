@@ -17,6 +17,7 @@
 
 ## Windows
 
+- [MSYS2](https://www.msys2.org/)
 - [`pyenv-win`](https://github.com/pyenv-win/pyenv-win)
 
 # Keyboard Shortcuts
