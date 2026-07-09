@@ -3,4 +3,13 @@ vim.pack.add({
   "https://github.com/nvim-tree/nvim-web-devicons",
 })
 
-require("lualine").setup({})
+require("lualine").setup({
+  sections = {
+    lualine_c = {
+      {
+        "filename",
+        path = 1,
+      },
+    },
+  },
+})
