@@ -13,3 +13,4 @@ vim.o.shellxquote = ""
 vim.o.guicursor = ""
 vim.o.ff = "unix"
 vim.o.swapfile = false
+vim.o.completeslash = "slash"
