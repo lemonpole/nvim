@@ -1,4 +1,6 @@
 vim.g.mapleader = " "
+vim.g.netrw_keepdir = 0
+vim.g.netrw_cygwin = 1
 
 vim.o.ignorecase = true
 vim.o.smartcase = true
@@ -14,3 +16,4 @@ vim.o.guicursor = ""
 vim.o.ff = "unix"
 vim.o.swapfile = false
 vim.o.completeslash = "slash"
+vim.o.shellslash = true
