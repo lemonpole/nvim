@@ -1,5 +1,4 @@
 vim.g.mapleader = " "
-vim.g.netrw_keepdir = 0
 vim.g.netrw_cygwin = 1
 
 vim.o.ignorecase = true
