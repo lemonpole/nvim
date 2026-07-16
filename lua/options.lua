@@ -14,5 +14,8 @@ vim.o.shellxquote = ""
 vim.o.guicursor = ""
 vim.o.ff = "unix"
 vim.o.swapfile = false
-vim.o.completeslash = "slash"
 vim.o.shellslash = true
+
+if vim.fn.has("win32") == 1 then
+  vim.o.completeslash = "slash"
+end
