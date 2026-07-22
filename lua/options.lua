@@ -1,5 +1,4 @@
 vim.g.mapleader = " "
-vim.g.netrw_cygwin = 1
 
 vim.o.ignorecase = true
 vim.o.smartcase = true
@@ -17,5 +16,6 @@ vim.o.swapfile = false
 vim.o.shellslash = true
 
 if vim.fn.has("win32") == 1 then
+  vim.g.netrw_cygwin = 1
   vim.o.completeslash = "slash"
 end
