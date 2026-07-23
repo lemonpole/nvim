@@ -27,6 +27,9 @@ vim.lsp.config["clangd"] = {
   },
 }
 
+-- not supported by mason so we enable these lsp servers manually
+vim.lsp.enable("sourcekit")
+
 --[[
   fixes an issue with eslint not resolving path
   aliases correctly on windows under msys2.

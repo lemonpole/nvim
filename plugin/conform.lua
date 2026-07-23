@@ -21,6 +21,7 @@ require("conform").setup({
     cpp = { "clang_format" },
     h = { "clang_format" },
     sql = { "sql_formatter" },
+    swift = { "swift" },
   },
   formatters = {
     shfmt = {
