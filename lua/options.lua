@@ -10,6 +10,8 @@ vim.o.number = true
 vim.o.scrolloff = 10
 vim.o.signcolumn = "yes"
 vim.o.smartcase = true
+vim.o.splitbelow = true
+vim.o.splitright = true
 vim.o.swapfile = false
 
 if vim.fn.has("win32") == 1 then
