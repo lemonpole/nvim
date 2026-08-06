@@ -1,3 +1,5 @@
+vim.diagnostic.config({ virtual_text = true })
+
 vim.g.mapleader = " "
 
 vim.o.confirm = true
@@ -13,8 +15,6 @@ vim.o.smartcase = true
 vim.o.splitbelow = true
 vim.o.splitright = true
 vim.o.swapfile = false
-
-vim.diagnostic.config({ virtual_text = true })
 
 if vim.fn.has("win32") == 1 then
   vim.g.netrw_cygwin = 1
