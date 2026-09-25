@@ -56,3 +56,10 @@ Using Vim's `:grep` directly, the workflow is slightly different.
 
 1. Run `:grep <search>`.
 2. Run `:cfdo %//<replace>/gc`.
+
+## Autofix Diagnoastic Errors
+
+1. Put the cursor over the diagnostic error.
+2. `gra`
+3. Select `1` to fix the current error.
+4. Select `2` to fix all errors.
