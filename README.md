@@ -1,6 +1,6 @@
 # Dependencies
 
-- [Prettier](https://prettier.io/)
+- [Prettier](https://prettier.io/) or [Oxc Ecosystem](https://oxc.rs/)
 - [SQL Formatter](https://github.com/sql-formatter-org/sql-formatter)
 - [`stylua`](https://github.com/JohnnyMorganz/StyLua)
 - [`fzf`](https://github.com/junegunn/fzf)
