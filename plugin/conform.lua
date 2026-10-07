@@ -23,6 +23,7 @@ require("conform").setup({
     sql = { "sql_formatter" },
     swift = { "swift" },
     terraform = { "terraform_fmt" },
+    go = { "gofmt" },
   },
   formatters = {
     shfmt = {

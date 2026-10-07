@@ -13,6 +13,7 @@ require("mason-lspconfig").setup({
     "jsonls",
     "eslint",
     "clangd",
+    "gopls",
   },
 })
 
