@@ -18,6 +18,8 @@ vim.o.swapfile = false
 
 if vim.fn.has("win32") == 1 then
   vim.o.completeslash = "slash"
+  vim.o.shell = "powershell.exe"
+  vim.o.shellcmdflag = "-NoLogo -NoProfile -Command"
   vim.o.shellslash = true
   vim.o.shellxquote = ""
 
