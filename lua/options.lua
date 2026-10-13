@@ -28,3 +28,8 @@ if vim.fn.has("win32") == 1 then
     vim.o.shellcmdflag = "-c"
   end
 end
+
+-- hide built-in themes
+vim.opt.wildignore:append({
+  "*/runtime/colors/*",
+})
