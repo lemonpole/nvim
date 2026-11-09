@@ -23,9 +23,6 @@ vim.lsp.config["bashls"] = {
 
 vim.lsp.config["clangd"] = {
   filetypes = { "cpp" },
-  init_options = {
-    compilationDatabasePath = "build/Debug",
-  },
 }
 
 -- not supported by mason so we enable these lsp servers manually
